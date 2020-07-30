@@ -1,6 +1,7 @@
 
 # -Welcome to my Github Page-
 ### I am Lenny
-### a movie buff from the BLUE 
+### from the BLUE 
+### a movie buff and food lover
 
 
