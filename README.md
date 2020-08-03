@@ -1,6 +1,5 @@
 
 # -Welcome to Github Pages-
-#
-### Lenny from the BLUE is a movie buff and food lover
+# There is nothing here
 
 
